@@ -1,0 +1,17 @@
+body{
+    background-color: #e8e8e8;
+}
+.flex-container{
+    margin: 10px 25px 0 0 !important;
+}
+.home-menu{
+    min-height: 100vh;
+}
+.hero.login{
+  background-image: url("/images/back/login-back.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
